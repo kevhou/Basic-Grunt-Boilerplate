@@ -1,0 +1,8 @@
+.l-inner-container{
+	padding: 0 20px;
+	box-sizing: border-box;
+	@media screen and (min-width: 768px){
+		max-width: 960px;
+		margin: 0px auto;
+	}
+}
